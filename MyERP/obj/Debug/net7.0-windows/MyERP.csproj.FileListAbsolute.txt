@@ -1,0 +1,16 @@
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\bin\Debug\net7.0-windows\MyERP.exe
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\bin\Debug\net7.0-windows\MyERP.deps.json
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\bin\Debug\net7.0-windows\MyERP.runtimeconfig.json
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\bin\Debug\net7.0-windows\MyERP.dll
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\bin\Debug\net7.0-windows\MyERP.pdb
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\obj\Debug\net7.0-windows\MyERP.Form1.resources
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\obj\Debug\net7.0-windows\MyERP.csproj.GenerateResource.cache
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\obj\Debug\net7.0-windows\MyERP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\obj\Debug\net7.0-windows\MyERP.AssemblyInfoInputs.cache
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\obj\Debug\net7.0-windows\MyERP.AssemblyInfo.cs
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\obj\Debug\net7.0-windows\MyERP.csproj.CoreCompileInputs.cache
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\obj\Debug\net7.0-windows\MyERP.dll
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\obj\Debug\net7.0-windows\refint\MyERP.dll
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\obj\Debug\net7.0-windows\MyERP.pdb
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\obj\Debug\net7.0-windows\MyERP.genruntimeconfig.cache
+C:\Users\RasulovI\Documents\cs11dotnet7\MyERP\obj\Debug\net7.0-windows\ref\MyERP.dll

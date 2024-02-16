@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyERP", "MyERP.csproj", "{0CD76E77-EBBD-4613-B5BB-0607A2043352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyERPConf", "..\MyERPConf\MyERPConf.csproj", "{1FE0FE79-02CA-4F57-A691-426F3E422FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyERPStart", "..\MyERPStart\MyERPStart.csproj", "{8E0B24F4-90A8-4589-ADDF-F601582CBE3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD76E77-EBBD-4613-B5BB-0607A2043352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD76E77-EBBD-4613-B5BB-0607A2043352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD76E77-EBBD-4613-B5BB-0607A2043352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD76E77-EBBD-4613-B5BB-0607A2043352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE0FE79-02CA-4F57-A691-426F3E422FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE0FE79-02CA-4F57-A691-426F3E422FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE0FE79-02CA-4F57-A691-426F3E422FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE0FE79-02CA-4F57-A691-426F3E422FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0B24F4-90A8-4589-ADDF-F601582CBE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0B24F4-90A8-4589-ADDF-F601582CBE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0B24F4-90A8-4589-ADDF-F601582CBE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0B24F4-90A8-4589-ADDF-F601582CBE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79889C72-87E3-4693-A8B3-783D75FC017D}
+	EndGlobalSection
+EndGlobal
